@@ -384,6 +384,35 @@
             ]
           },
           {
+            "title": "Multiregion Clusters",
+            "items": [
+              {
+                "title": "Multiregion Overview",
+                "urls": [
+                  "/${VERSION}/multiregion-overview.html"
+                ]
+              },
+              {
+                "title": "REGIONAL Tables",
+                "urls": [
+                  "/${VERSION}/multiregion-regional-tables.html"
+                ]
+              },
+              {
+                "title": "GLOBAL Tables",
+                "urls": [
+                  "/${VERSION}/multiregion-global-tables.html"
+                ]
+              },
+              {
+                "title": "REGIONAL BY ROW Tables",
+                "urls": [
+                  "/${VERSION}/multiregion-regional-by-row-tables.html"
+                ]
+              }
+            ]
+          },
+          {
             "title": "Topology Patterns",
             "items": [
               {
